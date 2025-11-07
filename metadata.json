@@ -1,0 +1,5 @@
+{
+  "name": "TecnoReparos - Service Order Management",
+  "description": "A web application for technicians at TecnoReparos to manage service orders (O.S.). This system allows for user authentication, creating, listing, editing, deleting, and updating the status of service orders, replacing the old paper-based system.",
+  "requestFramePermissions": []
+}
